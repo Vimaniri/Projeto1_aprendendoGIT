@@ -1,1 +1,3 @@
-Olá mundo, estou aprendendo a usar Git no dia 17/07/2023
+Olá mundo, estou aprendendo como usar Git no dia 17/07/2023
+
+Estou adicionando outra linha para atualizar o master
